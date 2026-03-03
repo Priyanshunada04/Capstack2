@@ -4,6 +4,13 @@
 
 The only funding aggregator built around trust. 2,400+ verified opportunities for founders.
 
+## 📑 UX Research Case Study
+👉 **[View Full Case Study PDF](./Capstack_Redesigning_the_Startup_Funding_Discovery_Experience.pdf)**
+
+* **Impact:** Reduced founder research time from **8 hours to <60 minutes**.
+* **The Problem:** Solved "Evaluation Failure" by replacing 50-page PDFs with 60-second eligibility cards.
+* **Methodology:** Secondary research, Persona Development, Journey Mapping, and Heuristic Evaluation.
+
 ## 🚀 Features
 
 - **🔍 Browse 2,400+ Verified Opportunities** — Every listing is hand-verified and up-to-date
